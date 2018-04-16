@@ -1,0 +1,10 @@
+.DS_Store
+data/mapdata
+
+# Editor directories and files
+.idea
+.vscode
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
