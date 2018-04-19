@@ -1,4 +1,4 @@
-angular.module("app", ["ui.router", "ngMap"]).controller("mapCtrl", [
+angular.module("app", ["ngMap"]).controller("mapCtrl", [
   "$scope",
   "$http",
   function($scope, $http) {
